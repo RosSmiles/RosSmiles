@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RosSmiles
 - 👀 I’m interested in Organic Gardening, HIIT, Tennis and all things Science Fiction. 
-- 🌱 I’m currently learning CISSP and Security Data analysis techniques. 
+- 🌱 I’m currently learning CISA and AAIA certifications. 
 - 💞️ I’m looking to collaborate on any data science project that betters our world! 
 - 📫 How to reach me -- I'm around. 
 
